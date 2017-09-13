@@ -5,5 +5,5 @@ function ant2($x){
 return true;
 }
 function ant3($x){
-return $x;
+return !$x;
 }
