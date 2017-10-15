@@ -7,3 +7,4 @@ return true;
 function ant3($x){
 return $x;
 }
+0000000000000000000
